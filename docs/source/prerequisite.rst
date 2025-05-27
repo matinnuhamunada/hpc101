@@ -2,7 +2,9 @@ Prerequisite
 ============
 
 .. important::
- #.  NCI account.
+ #. NCI account.
+ #. GitHub account.
+ #. SSH client (when usinh windows). 
 
 This workshop assumes that you have experience coding in Python and are familiar with using Unix shell. 
 If you are using a Windows machine please make sure you have a shell that supports SSH. Windows users can either use 
