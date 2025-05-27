@@ -115,3 +115,8 @@ of HPC, with real-world use cases and examples.
 .. toctree::
 
   tutorial/session0.rst
+  tutorial/session1.rst
+  tutorial/session2.rst
+  tutorial/session3.rst
+  tutorial/session4.rst
+  tutorial/session5.rst
