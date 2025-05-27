@@ -2,8 +2,7 @@ Prerequisite
 ============
 
 .. important::
- #.  Experience with Python.
- #.  Experience with bash or similar Unix shells.
+ #.  NCI account.
 
 This workshop assumes that you have experience coding in Python and are familiar with using Unix shell. 
 If you are using a Windows machine please make sure you have a shell that supports SSH. Windows users can either use 
@@ -27,4 +26,5 @@ If you are using a Windows machine please make sure you have a shell that suppor
 
 
 .. warning::
-    Project vp91 is temporary for training purposes only. Data in vp91 will be cleaned in one week time after the training.
+    Project vp91 will be active only for the duration of the course. Data in proeject will be cleaned in one week time after the 
+    course.

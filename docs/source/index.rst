@@ -1,4 +1,4 @@
-Name of the Workshop
+HPC 101: Introduction to High Performance Computing
 =================================================
 
 This repository provides an introduction to the concepts of parallel programming using Python.
@@ -15,7 +15,6 @@ Contents
    prerequisite
    outcomes
    modules
-   packages
-   are_errors.rst
    tutorial
+   are_errors
    references

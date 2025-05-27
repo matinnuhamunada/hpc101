@@ -1,4 +1,4 @@
-# Name of the training
+# HPC 101: Introduction to High Performance Computing
 
 **Documentation**: 
 
