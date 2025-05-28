@@ -83,6 +83,19 @@ Importance
    In practice weight updates do not happen after  every individual sample; instead, they occur after each batch of data, depending on the **batch size** used. 
 
 
+Exercise
+---------------
+
+.. admonition:: Exercise
+   :class: todo
+
+    1. Examine the program *src/distributed_data_parallel.py*. What the changes from data_parallel.ipynb?
+    2. Examine the job script *job_scripts/distributed_data_parallel.pbs*.
+    3. Run the program using the job script *job_scripts/distributed_data_parallel.pbs*.
+
+
+Key Points
+----------------
 
 .. admonition:: Key Points
    :class: hint
