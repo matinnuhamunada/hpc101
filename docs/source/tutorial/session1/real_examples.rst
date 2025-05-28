@@ -16,6 +16,7 @@ compared to HPC systems. For example, a high-end laptop might have
 
 In contrast, an HPC system is much more powerful. for instance, Gadi, the supercomputer at the National 
 Computational Infrastructure (NCI) in Australia, has:
+
 * 48 cores per node
 * 192 GB of RAM per node
 * Four NVIDIA V100 GPUs per node each with 32 GB of memory
@@ -25,6 +26,12 @@ Computational Infrastructure (NCI) in Australia, has:
 
     **Node** refers to a single computing unit within an HPC system. Each node can have multiple CPUs and GPUs 
     and independent memory.
+
+    A **cluster** is a group of interconnected nodes that work together as a single system. 
+    Each node typically has its own CPU, memory, storage, and possibly GPU resources. The nodes are connected 
+    through a high-speed network, and they coordinate to run tasks in parallel.
+
+    An HPC system is a very powerful cluster.
 
 
 .. image:: ./figs/gadi.jpg
