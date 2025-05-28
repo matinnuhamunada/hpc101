@@ -35,3 +35,11 @@ We can unload all the modules using the command
     :linenos:
     
     module purge
+
+
+.. admonition:: Key Points
+   :class: hint
+
+    * `module avail`: This command lists all the available modules on the system.
+    * `module load <module_name>`: This command loads a specific module, making its software available for use.
+    * `module unload <module_name>`: This command unloads a specific module, removing its software from the environment.
