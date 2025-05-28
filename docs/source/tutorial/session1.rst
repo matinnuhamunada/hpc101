@@ -7,4 +7,6 @@ Session 1
     session1/arch.rst
     session1/directory.rst
     session1/shell.rst
+    session1/modules.rst
     session1/exercise.rst
+    
