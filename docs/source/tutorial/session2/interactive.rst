@@ -16,12 +16,12 @@ resources for an interactive session.
 
 
 In this command:
-    * `-I`: This option indicates that you want to start an interactive job.
-    * `-q normal`: Specifies the queue to use for the job, in this case, the `normal` queue.
-    * `-P vp91`: Specifies the project code for the job.
-    * `-l walltime=00:10:00`: Sets the maximum wall time for the job to 10 minutes.
-    * `-l ncpus=48`: Requests 48 CPU cores for the job.
-    * `-l mem=10GB`: Requests 10 GB of memory for the job.
+    * ``-I``: This option indicates that you want to start an interactive job.
+    * ``-q normal``: Specifies the queue to use for the job, in this case, the `normal` queue.
+    * ``-P vp91``: Specifies the project code for the job.
+    * ``-l walltime=00:10:00``: Sets the maximum wall time for the job to 10 minutes.
+    * ``-l ncpus=48``: Requests 48 CPU cores for the job.
+    * ``-l mem=10GB``: Requests 10 GB of memory for the job.
 
 
 

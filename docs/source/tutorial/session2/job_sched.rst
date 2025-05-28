@@ -10,11 +10,11 @@ and that jobs are executed in a timely manner.
    :align: center
    :alt: Job Scheduler
 
-The job scheuler in Gadi is called `PBS (Portable Batch System) Pro`. It is a widely used job scheduler in HPC environments. 
+The job scheuler in Gadi is called ``PBS (Portable Batch System) Pro``. It is a widely used job scheduler in HPC environments. 
 PBS allows users to submit jobs, monitor their status, and manage job queues. It provides a command-line interface 
 for job submission and management.
 
-There are several other job schedulers available, such as `SLURM`, `LSF`, and `Grid Engine`. Each scheduler has its own features
+There are several other job schedulers available, such as ``SLURM``, ``LSF``, and ``Grid Engine``. Each scheduler has its own features
 and capabilities, but they all serve the same purpose of managing job execution on HPC clusters.
 
 All the job schedulers use a concept called batch scheduling. In batch scheduling, jobs are submitted to a queue, 
