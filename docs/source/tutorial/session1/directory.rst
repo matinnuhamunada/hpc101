@@ -85,6 +85,16 @@ and also clear it when you are done.
     echo $MYDIR
 
 
+Now you can clone the course repository to your home directory or scratch directory.
+
+.. code-block:: bash
+   :linenos:
+
+    cd  /scratch/$PROJECT/$USER
+    pwd 
+    git clone https://github.com/NCI900-Training-Organisation/hpc101.git
+
+
 .. admonition:: Key Points
    :class: hint
    
