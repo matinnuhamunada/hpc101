@@ -16,5 +16,4 @@ Contents
    outcomes
    modules
    tutorial
-   are_errors
    references
