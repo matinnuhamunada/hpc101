@@ -4,11 +4,11 @@ Compiler Modes in Python
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 10 min
+    * **Time:** 10 min
 
-        **Objectives:**
-            #. Learn the difference between Nopython and Object compilation.
-            #. Learn how to use Nopython compilation.
+  
+    #. Learn the difference between Nopython and Object compilation.
+    #. Learn how to use Nopython compilation.
 
 Numba offers two compilation modes: nopython mode and object mode. 
 

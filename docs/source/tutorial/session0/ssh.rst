@@ -4,12 +4,11 @@ Secures Shell
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 30 min
+    * **Time:** 30 min
 
-        **Objectives:**
-            #. Learn how to use SSH for secure remote access.
-            #. Learn how to copy files using SCP.
-            #. Understand the basics of SSH keys for authentication.
+    #. Learn how to use SSH for secure remote access.
+    #. Learn how to copy files using SCP.
+    #. Understand the basics of SSH keys for authentication.
 
 
 SSH and SCP

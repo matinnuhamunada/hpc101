@@ -1,6 +1,14 @@
 File Transfer
 ------------------
 
+.. admonition:: Overview
+   :class: Overview
+
+    * **Time:** 20 min
+
+      #. Learn how to copy files between your local machine and the HPC cluster.
+      #. Understand how to use Secure Copy Protocol (SCP) for file transfers.
+
 In this section, we will learn how to copy files between your local machine and the HPC cluster. 
 This is essential for transferring data, scripts, and results. 
 

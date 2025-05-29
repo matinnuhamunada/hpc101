@@ -4,13 +4,12 @@ Linux Commands
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 20 min
+    * **Time:** 20 min
 
-        **Objectives:**
-            #. Learn some basic Linux commands.
-            #. Learn how to navigate the file system.
-            #. Learn how to use Vim editor.
-            #. Learn how to use Git for version control.
+    #. Learn some basic Linux commands.
+    #. Learn how to navigate the file system.
+    #. Learn how to use Vim editor.
+    #. Learn how to use Git for version control.
 
 
 Basic Linux commands are essential for navigating and managing files in a Linux environment. 

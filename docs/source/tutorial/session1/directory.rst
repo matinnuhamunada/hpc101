@@ -2,6 +2,15 @@
 Directories and Environment Variables
 ---------------------------------------
 
+
+.. admonition:: Overview
+   :class: Overview
+
+    * **Time:** 20 min
+
+    #. Learn about the directories you will need to work with on Gadi.
+    #. Understand the environment variables that are set automatically when you log in to the system.
+
 In this section, we will explore the directories you will need to work with on Gadi. Understanding these 
 directories is crucial for managing your files and data effectively.
 

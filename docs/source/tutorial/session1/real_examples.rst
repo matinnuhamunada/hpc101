@@ -1,6 +1,16 @@
 What is High-Performance Computing (HPC)?
 --------------------------------------------
 
+
+.. admonition:: Overview
+   :class: Overview
+
+    * **Time:** 20 min
+
+      #. Understand what High-Performance Computing (HPC) is.
+      #. Learn when to use HPC.
+      #. Explore real-life examples of HPC applications.
+
 High-Performance Computing (HPC) refers to the use of supercomputers and parallel processing techniques to 
 solve complex computational problems at high speeds. HPC systems are designed to perform large-scale 
 computations that require significant processing power, memory, and storage capabilities. 

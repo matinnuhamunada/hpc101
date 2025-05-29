@@ -1,6 +1,15 @@
 Architecture of an HPC Machine
 -----------------------------
 
+.. admonition:: Overview
+   :class: Overview
+
+    * **Time:** 20 min
+
+      #. Learn about the architecture of a High-Performance Computing (HPC) machine.
+      #. Learn how to find the architecture of a node using `lstopo` command.
+
+
 A laptop or desktop computer can be thought of as a single computing unit
 
 .. image:: ./figs/architecture_pc.png

@@ -1,6 +1,15 @@
 Shell Scripting
 -----------------
 
+
+.. admonition:: Overview
+   :class: Overview
+
+    * **Time:** 20 min
+
+    #. Learn about shell scripts and how to create them.
+    #. Learn the differences between `source` and `sh` commands.
+
 A shell script is a file containing a series of commands that can be executed in the terminal.
 You can create a shell script to automate the creation of your directories and environment variables.
 

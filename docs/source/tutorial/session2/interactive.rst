@@ -1,6 +1,14 @@
 Interactive Jobs 
 --------------------
 
+.. admonition:: Overview
+   :class: Overview
+
+    * **Time:** 20 min
+
+    #. Learn how to run interactive jobs on Gadi.
+    #. Understand the benefits of interactive jobs compared to batch jobs.
+
 Interactive jobs allow you to run commands directly on the compute nodes, providing a more interactive experience
 compared to batch jobs. This is particularly useful for tasks that require user input or real-time feedback.
 To start an interactive job on Gadi, you can use the `qsub` command with the `-I` option. This will allocate 

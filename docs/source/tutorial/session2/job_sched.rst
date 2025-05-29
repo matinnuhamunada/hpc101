@@ -1,6 +1,15 @@
 Job Scheduler
 -----------------
 
+
+.. admonition:: Overview
+   :class: Overview
+
+    * **Time:** 20 min
+
+      #. Learn about the job scheduler used in HPC clusters.
+      #. Understand the concept of batch scheduling and how it works.
+
 HPC clusters like Gadi use a job scheduler to manage the execution of jobs. The job scheduler is responsible for 
 queuing, scheduling, and executing jobs on the cluster. It ensures that resources are allocated efficiently 
 and that jobs are executed in a timely manner.

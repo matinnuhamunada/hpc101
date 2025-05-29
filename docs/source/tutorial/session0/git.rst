@@ -4,10 +4,10 @@ Linux Commands
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 20 min
+    * **Time:** 20 min
 
-        **Objectives:**
-            #. Learn how to use Git for version control.
+    #. Learn how to use Git for version control.
+    #. Understand basic Git commands.
 
 
 

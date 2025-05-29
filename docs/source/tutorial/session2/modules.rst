@@ -1,6 +1,14 @@
 Modules
 ----------
 
+.. admonition:: Overview
+   :class: Overview
+
+    * **Time:** 20 min
+
+    #. Learn how to use modules to manage software on HPC systems.
+    #. Understand how to load and unload modules.
+
 .. note::
  1.  python3/3.11.0
  2.  papi/7.0.1

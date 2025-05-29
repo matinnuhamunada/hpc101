@@ -1,6 +1,14 @@
 Limits of Paralellism
 ----------------------
 
+.. admonition:: Overview
+   :class: Overview
+
+    * **Time:** 20 min
+
+    #. Understand the limits of parallelism in High-Performance Computing (HPC).
+    #. Learn about Amdahl's Law and Gustafson's Law, which describe the limits of parallel processing.
+
 In High-Performance Computing (HPC), while parallelism is a powerful tool for improving performance, it has its 
 limits. Understanding these limits is crucial for effectively designing and optimizing parallel applications.
 These limits can be broadly categorized into two types: **Amdahl's Law** and **Gustafson's Law**.

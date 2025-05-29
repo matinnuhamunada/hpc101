@@ -4,10 +4,11 @@ LLVM and Numba
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 10 min
+    * **Time:** 10 min
 
-        **Objectives:**
-            * Learn how to inspect IR code in Numba
+
+    #. Learn how to inspect IR code in Numba
+    #. Learn how to use LLVM IR in Numba
 
 LLVM Intermediate Representation (IR) is a low-level, typed programming language used as an 
 intermediate step in the LLVM compiler framework. It serves as a common code representation for 

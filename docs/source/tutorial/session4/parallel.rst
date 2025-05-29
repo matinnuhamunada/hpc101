@@ -4,11 +4,10 @@ Automatic Parallelisation
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 10 min
+    * **Time:** 10 min
 
-        **Objectives:**
-            #. Learn how to automatically parallelize code in Numba.
-            #. Learn how to parallelise loops in Numba.
+    #. Learn how to automatically parallelize code in Numba.
+    #. Learn how to parallelise loops in Numba.
 
 Setting the ``parallel`` option for ``jit()`` enables Numba to automatically parallelize and optimize 
 parts of a function, though it currently only works on CPUs. Instead of parallelizing each operation 

@@ -4,10 +4,11 @@ Caching Compiled Functions
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 10 min
+    * **Time:** 10 min
 
-        **Objectives:**
-            * Learn file-based cache in Numba.
+    
+    #. Learn file-based cache in Numba.
+    #. Understand how to use the cache option in Numba.
 
 To avoid compilation each time you run a Python program, you can direct Numba to save the 
 results of function compilation to a file-based cache by using the ``cache=True`` option.

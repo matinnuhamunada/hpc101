@@ -4,10 +4,10 @@ Vim Editor
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 25 min
+    * **Time:** 25 min
 
-        **Objectives:**
-            #. Learn how to use Vim editor.
+    #. Learn how to use Vim editor.
+    #. Understand basic Vim commands for text editing.
 
 
 

@@ -1,6 +1,14 @@
 Paralellism in HPC
 ----------------------------
 
+.. admonition:: Overview
+   :class: Overview
+
+    * **Time:** 20 min
+
+    #. Understand the concept of parallelism in High-Performance Computing (HPC).
+    #. Learn about different levels of parallelism, including vector parallelism, multi-core parallelism, distributed parallelism, and GPU parallelism.
+
 In this section, we will explore the concept of parallelism in High-Performance Computing (HPC). Parallelism 
 is the ability to perform multiple computations simultaneously, which is essential for achieving high performance 
 in HPC applications. Parallelism can be achieved through various means, including the use of multiple threads, 

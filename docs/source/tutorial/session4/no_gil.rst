@@ -4,10 +4,10 @@ No GIL mode
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 10 min
-
-        **Objectives:**
-            * Learn how to disable GIL in Numba.
+    * **Time:** 10 min
+    
+    #. Learn how to disable GIL in Numba.
+    #. Understand the implications of using ``nogil`` mode.
 
 
 Since Numba optimizes Python code, it's no longer necessary to hold Python's Global Interpreter Lock 

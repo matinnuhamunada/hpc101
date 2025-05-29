@@ -4,10 +4,12 @@ Universal Functions
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 10 min
+    * **Time:** 10 min
 
-        **Objectives:**
-            * Learn how to implement ufunc in Python.
+        
+    #. Learn how to implement ufunc in Python.
+    #. Understand how to use the vectorize decorator in Numba.
+
 
 A universal function (ufunc) performs element-by-element operations on NumPy arrays. While creating 
 traditional ufuncs in NumPy requires writing C code, Numba simplifies this process. With the 

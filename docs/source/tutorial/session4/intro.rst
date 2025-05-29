@@ -4,10 +4,10 @@ Working with Numba
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 10 min
+    * **Time:** 10 min
 
-        **Objectives:**
-            * Learn the how Numba works.
+    #. Learn the how Numba works.
+    #. Learn how to use Numba's JIT compiler.
 
 
 Numba was developed to address the inefficiencies in NumPy use cases. NumPy uses multi-dimensional arrays 

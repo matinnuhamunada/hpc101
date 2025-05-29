@@ -4,11 +4,11 @@ Eager Compilation in Numba
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 10 min
+    * **Time:** 10 min
 
-        **Objectives:**
-            #. Learn the difference between eager and lazy compilation.
-            #. Learn how to use eager compilation.
+       
+    #. Learn the difference between eager and lazy compilation.
+    #. Learn how to use eager compilation.
 
 Typically, Numba operates in *lazy compilation* mode. 
 

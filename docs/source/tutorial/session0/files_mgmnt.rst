@@ -4,10 +4,10 @@ Linux File Management
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 10 min
+    * **Time:** 10 min
 
-        **Objectives:**
-            #. Learn the file oragnisation in a Linux OS.
+    #. Learn the file oragnisation in a Linux OS.
+    #. Understand the difference between Unix and Linux.
 
 
 

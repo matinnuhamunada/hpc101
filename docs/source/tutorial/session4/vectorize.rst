@@ -4,10 +4,11 @@ Vectorize
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 10 min
+    * **Time:** 10 min
 
-        **Objectives:**
-            * Learn how to use vectorize to implement ufunc.
+    
+    #. Learn how to use vectorize to implement ufunc.
+    #. Understand how to specify multiple signatures for vectorized functions.
 
 Numba's vectorize feature enables Python functions that take scalar inputs to be used as NumPy ufuncs.
  By applying the vectorize() decorator, Numba compiles a pure Python function into a ufunc that can 
