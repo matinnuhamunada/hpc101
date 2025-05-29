@@ -18,3 +18,14 @@ Exercise 5
      * 8 cores
 
     Use Amdahl's Law to calculate the speedup.
+
+
+Exercise 6
+-----------------
+
+.. admonition:: Exercise
+   :class: todo
+
+   * Run the job ``parallel.pbs`` in ``hpc101/session_3``.
+
+   * What is the output of the job?
