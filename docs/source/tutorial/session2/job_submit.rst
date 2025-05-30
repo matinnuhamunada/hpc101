@@ -1,6 +1,15 @@
 Job Submission
 -------------------
 
+.. admonition:: Overview
+   :class: Overview
+
+    * **Time:** 20 min
+
+    #. Learn how to submit jobs to the job scheduler.
+    #. Understand the structure of a job script and its components.
+    #. Learn how to check the status of submitted jobs.
+
 In this section, we will learn how to submit jobs to the job scheduler. The job scheduler is responsible for 
 managing and executing jobs on the cluster. It allocates resources, schedules jobs based on priority, and 
 ensures efficient use of the cluster's computational power. Job submission is the process of sending a job 

@@ -10,6 +10,7 @@ Architecture of an HPC Machine
       #. Learn how to find the architecture of a node using `lstopo` command.
 
 
+
 A laptop or desktop computer can be thought of as a single computing unit
 
 .. image:: ./figs/architecture_pc.png
