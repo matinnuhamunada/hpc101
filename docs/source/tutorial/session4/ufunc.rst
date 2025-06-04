@@ -30,3 +30,4 @@ NumPy arrays with performance comparable to ufuncs written in C.
    :class: hint
 
     #. Numba can simplify ufunc in Python.
+    #. The ``vectorize`` decorator compiles a Python function into a ufunc.

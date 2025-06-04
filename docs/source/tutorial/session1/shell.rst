@@ -5,10 +5,10 @@ Shell Scripting
 .. admonition:: Overview
    :class: Overview
 
-    * **Time:** 20 min
+    * **Time:** 30 min
 
     #. Learn about shell scripts and how to create them.
-    #. Learn the differences between `source` and `sh` commands.
+    #. Learn the differences between ``source`` and ``sh`` commands.
 
 A shell script is a file containing a series of commands that can be executed in the terminal.
 You can create a shell script to automate the creation of your directories and environment variables.
@@ -63,7 +63,7 @@ or
      - ``sh script.sh``
    * - Shebang Ignored?
      - Yes
-     - No — uses shebang or defaults to `sh`
+     - No — uses shebang or defaults to ``sh``
    * - Performance
      - Slightly faster (no new process)
      - Slower (spawns a new shell process)
@@ -74,4 +74,4 @@ or
    :class: hint
 
    * A shell script is a file containing a series of commands that can be executed in the terminal.
-   * You can run the shell script using the `sh`, `source`, or `.` commands.
+   * You can run the shell script using the ``sh``, ``source``, or ``.`` commands.

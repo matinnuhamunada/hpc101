@@ -6,7 +6,7 @@ Directories and Environment Variables
 .. admonition:: Overview
    :class: Overview
 
-    * **Time:** 20 min
+    * **Time:** 15 min
 
     #. Learn about the directories you will need to work with on Gadi.
     #. Understand the environment variables that are set automatically when you log in to the system.
@@ -26,8 +26,8 @@ Home directory is unique to each user and is where you can store your personal f
 .. admonition:: Explanation
    :class: attention
 
-   Here `$HOME` is an environment variable that points to the user's home directory.
-   The value in `$HOME` is set automatically when you log in to the system, and it is unique to each user.
+   Here ``$HOME`` is an environment variable that points to the user's home directory.
+   The value in ``$HOME`` is set automatically when you log in to the system, and it is unique to each user.
 
 
 .. code-block:: bash
@@ -108,7 +108,7 @@ Now you can clone the course repository to your home directory or scratch direct
    :class: hint
    
    * The home directory is unique to each user and is where you can store your personal files, scripts, and data.
-   * The `$HOME` environment variable points to the user's home directory, and it is set automatically when you log in.
-   * The `$USER` environment variable contains the username of the currently logged-in user.
-   * The `$PROJECT` environment variable contains the project name(s) you belong to, and it is set automatically.
+   * The ``$HOME`` environment variable points to the user's home directory, and it is set automatically when you log in.
+   * The ``$USER`` environment variable contains the username of the currently logged-in user.
+   * The ``$PROJECT`` environment variable contains the project name(s) you belong to, and it is set automatically.
    * The scratch directory is a high-performance storage area for temporary data storage during computations.

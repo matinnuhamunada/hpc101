@@ -11,10 +11,22 @@ Working with Numba
 
 
 Numba was developed to address the inefficiencies in NumPy use cases. NumPy uses multi-dimensional arrays 
-(ndarrays) for data storage, and operations on these arrays are implemented in C for efficiency. Before Numba, 
-custom efficient computations required writing Python C extensions. Numba is a Just-in-Time (JIT) compiler for 
-CPython that allows users to annotate compute-intensive Python functions for compilation without needing to 
-rewrite the code in C.
+(ndarrays) for data storage, and operations on these arrays are implemented in C for efficiency. 
+
+.. admonition:: Explanation
+   :class: attention
+
+    NumPy (Numerical Python) is a powerful Python library used for scientific computing. It provides:
+    #. A high-performance multidimensional array object (ndarray).
+    #. Tools for integrating C/C++ and Fortran code.
+    #. Functions for linear algebra, Fourier transforms, and random number generation.
+    #. NumPy is widely used in data science, machine learning, and numerical computing.
+
+    NumPy's performance is limited by the Python interpreter's overhead, which can slow down computations, especially
+    for large datasets or complex numerical operations.
+
+Before Numba, custom efficient computations required writing Python C extensions. Numba is a Just-in-Time (JIT) compiler for 
+CPython that allows users to annotate compute-intensive Python functions for compilation without needing to rewrite the code in C.
 
 .. image:: ./figs/performance.png
 
@@ -28,6 +40,12 @@ at runtime, rather than ahead of time.
 .. image:: ./figs/normal_working.png
 .. image:: ./figs/jit_working.png
 
+
+.. admonition:: Explanation
+   :class: attention
+
+    A compiler is a program that translates code written in a high-level programming language into machine code 
+    (binary instructions) that a computer's processor can understand and execute (in this case Python -> IR -> machine code).
 
 Here's a breakdown of how it functions:
 
@@ -96,3 +114,5 @@ and different function invocations may result in different compilations based on
    :class: hint
 
     #. Numba uses simple annonations to parallelise code.
+    #. Numba is a JIT compiler that optimizes Python code for performance.
+    #. It compiles functions at runtime, allowing for efficient execution of numerical computations.

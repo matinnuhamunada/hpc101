@@ -12,6 +12,10 @@ GPU Paralellism in HPC
 
 We will use the GPU programming in Numba to accelerate our code.
 
+
+
+
+
 Kernel Function
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

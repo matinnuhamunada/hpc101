@@ -4,12 +4,26 @@ Architecture of an HPC Machine
 .. admonition:: Overview
    :class: Overview
 
-    * **Time:** 20 min
+    * **Time:** 15 min
 
       #. Learn about the architecture of a High-Performance Computing (HPC) machine.
-      #. Learn how to find the architecture of a node using `lstopo` command.
+      #. Learn how to find the architecture of a node using ``lstopo`` command.
 
 
+.. admonition:: Explanation
+   :class: attention
+
+   In computer science, ``architecture`` generally refers to the design and structure of a computer system
+   — how its components are organized and how they interact. There are different types of architectures :
+    
+   * Computer Architecture: Refers to the design of a computer's hardware components.
+   * System Architecture: Describes how the entire system (hardware + software) is organized.
+   * Software Architecture: Refers to the high-level structure of software systems.
+   * Network Architecture: Describes how different network components are organized and how they communicate.
+
+
+Personal Computer (PC) Architecture
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 A laptop or desktop computer can be thought of as a single computing unit
 
@@ -18,8 +32,18 @@ A laptop or desktop computer can be thought of as a single computing unit
    :align: center
    :alt: PC architecture
 
+HPC Architecture
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-While an HPC machine  consists of several components that work together to achieve high performance. 
+Unlike a PC, an HPC machine is composed of multiple interconnected components designed to deliver 
+significantly higher computational power. It typically consists of numerous nodes, with each node containing 
+multiple CPUs, GPUs, and its own dedicated memory. In essence, an HPC machine functions as a large computing 
+cluster.
+
+.. important::
+
+   A cluster is a group of interconnected computers or servers that work together as a single system to 
+   perform tasks more efficiently, reliably, or quickly than a single machine could.
 
 .. image:: ./figs/architecture_hpc.png
    :width: 600px
@@ -40,7 +64,7 @@ The architecture of an HPC machine typically includes:
 Architecture of a Node
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-You can find architecture of a node using the command `lstopo` on Gadi.
+You can find architecture of a node using the command ``lstopo`` on Gadi.
 
 .. code-block:: bash
    :linenos:
@@ -48,7 +72,7 @@ You can find architecture of a node using the command `lstopo` on Gadi.
    lstopo 
 
 
-If you want to save the output as an image, you can use the `--of` option to specify the output format, 
+If you want to save the output as an image, you can use the ``--of`` option to specify the output format, 
 such as PNG.
 
 .. code-block:: bash

@@ -34,13 +34,13 @@ To copy a file from the HPC cluster to your local machine, use:
 .. admonition:: Explanation
    :class: attention
 
-   * Replace `/path/to/local/file` with the path to the file on your local machine.
-   * Replace `username@hpc-cluster` with your username and the address of the HPC cluster.
-   * Replace `/path/to/remote/directory` with the path to the directory on the HPC cluster where you want to copy the file.
+   * Replace ``/path/to/local/file`` with the path to the file on your local machine.
+   * Replace ``username@hpc-cluster`` with your username and the address of the HPC cluster.
+   * Replace ``/path/to/remote/directory`` with the path to the directory on the HPC cluster where you want to copy the file.
    * Similarly, adjust paths for copying files from the HPC cluster to your local machine.
 
 
-For Linix and MacOS users, the `scp` command is available by default in the terminal.
+For Linix and MacOS users, the ``scp`` command is available by default in the terminal.
 
 .. code-block:: bash
    :linenos:
@@ -54,11 +54,11 @@ For Linix and MacOS users, the `scp` command is available by default in the term
     # Securely copy the file to Gadi
     scp file.txt <username>@gadi.nci.org.au:/scratch/<project>>/<username>/
 
-This copies a file named `file.txt` from your local `downloads` directory to your scratch directory on Gadi.
+This copies a file named ``file.txt`` from your local ``downloads`` directory to your scratch directory on Gadi.
 
 
 For Windows users, you can use tools like PuTTY or WinSCP to perform SCP operations. All the latest versions of
-Windows also support the `scp` command in the Command Prompt or PowerShell.
+Windows also support the ``scp`` command in the Command Prompt or PowerShell.
 
 .. code-block:: bash
    :linenos:
@@ -73,7 +73,7 @@ Windows also support the `scp` command in the Command Prompt or PowerShell.
     scp file.txt <username>@gadi.nci.org.au:/scratch/<project>>/<username>/
 
 
-To copy a directory and its contents, use the `-r` option with `scp`:
+To copy a directory and its contents, use the ``-r`` option with ``scp``:
 
 .. code-block:: bash
    :linenos:
@@ -135,5 +135,5 @@ In Windows, you can do the same with:
 .. admonition:: Key Points
    :class: hint
 
-   * Use `scp` to securely copy files between your local machine and the HPC cluster.
-   * The `-r` option allows you to copy directories recursively.
+   * Use ``scp`` to securely copy files between your local machine and the HPC cluster.
+   * The ``-r`` option allows you to copy directories recursively.

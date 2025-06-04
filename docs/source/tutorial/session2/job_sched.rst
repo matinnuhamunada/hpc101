@@ -5,7 +5,7 @@ Job Scheduler
 .. admonition:: Overview
    :class: Overview
 
-    * **Time:** 20 min
+    * **Time:** 15 min
 
       #. Learn about the job scheduler used in HPC clusters.
       #. Understand the concept of batch scheduling and how it works.

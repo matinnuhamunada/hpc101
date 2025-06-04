@@ -18,6 +18,12 @@ This section introduces some common terminologies with respect to CPU.
 CPU (Central Processing Unit)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: ./figs/cpu.jpg
+   :width: 600px
+   :align: center
+   :alt: Intel 4th Generation CPU
+   :target: https://www.anandtech.com/show/6985/choosing-a-gaming-cpu-at-1440p-adding-in-haswell-
+
 * The **main processor** of a computer.
 * Responsible for executing instructions (code).
 * Can contain **multiple cores** inside a single chip or package.
@@ -28,6 +34,12 @@ A computer might have **1 CPU** with **8 cores**.
 
 Core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: ./figs/cores.jpg
+   :width: 600px
+   :align: center
+   :alt: Intel CPU Cores
+   :target: https://camomileapp.com/blog/cpu-throttling/
 
 * A **processing unit** inside a CPU.
 * Each core can independently execute tasks.
@@ -43,6 +55,13 @@ CPU Die
 * Dies are manufactured on silicon wafers and later packaged into CPUs.
 * A single die can hold multiple cores, caches, and other components.
 * Some CPUs (like AMD’s multi-chip modules) may contain **multiple dies** inside one package.
+
+.. image:: ./figs/cpu_die.jpg
+   :width: 600px
+   :align: center
+   :alt: CPU Die
+   :target: https://superuser.com/questions/324284/what-is-meant-by-the-terms-cpu-core-die-and-package
+
 
 Analogy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -65,6 +84,13 @@ NUMA (Non-Uniform Memory Access)
 
 CPU (Socket)
 ~~~~~~~~~~~~
+
+.. image:: ./figs/socket.jpg
+   :width: 600px
+   :align: center
+   :alt: CPU Socket
+   :target: https://www.alamy.com/stock-photo/cpu-socket.html?sortBy=relevant
+   
 
 * In NUMA systems, multiple CPU sockets exist on the motherboard.
 * Each CPU/socket typically corresponds to one **NUMA node** with its own local memory.

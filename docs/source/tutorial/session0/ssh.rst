@@ -7,14 +7,12 @@ Secures Shell
     * **Time:** 30 min
 
     #. Learn how to use SSH for secure remote access.
-    #. Learn how to copy files using SCP.
     #. Understand the basics of SSH keys for authentication.
 
 
 SSH and SCP
 ^^^^^^^^^^^^
-SSH (Secure Shell) is a protocol used to securely connect to remote systems over a network. SCP (Secure Copy Protocol) is used to securely transfer files between systems.
-Here are some basic commands to get started with SSH and SCP:
+SSH (Secure Shell) is a protocol used to securely connect to remote systems over a network. 
 
 
 .. list-table:: Basic SSH and SCP Commands
@@ -58,5 +56,4 @@ SSH keys provide a secure way to log into a remote system without using a passwo
    :class: hint
 
     * SSH provides a secure way to access remote systems.
-    * SCP allows for secure file transfers between systems.
     * SSH keys enhance security and convenience by enabling passwordless login.

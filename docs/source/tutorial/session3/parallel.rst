@@ -76,8 +76,6 @@ hand, are independent entities with their own memory space.
     * Context switching allows OS to have more threads than CPU cores, enabling better resource utilization.
 
 
-
-
 There are different levels of parallelism in HPC, including:
 
 1. ``Vector Parallelism``: This involves performing the same operation on multiple data points simultaneously. It is often used in vector processors and SIMD (Single Instruction, Multiple Data) architectures.
@@ -95,7 +93,7 @@ points simultaneously. This is often achieved using SIMD (Single Instruction, Mu
 .. image:: ./figs/simd.png
    :width: 600px
    :align: center
-   :alt: SIMD - Single Instruction, Multiple Data
+   :alt: SIMD 
 
 SIMD allow a single instruction to operate on multiple data elements at once.
 

@@ -60,3 +60,4 @@ Vim is a powerful text editor available in most Linux distributions. Here are so
    :class: hint
 
    #. Vim is a powerful text editor available in most Linux distributions.
+   #. It has a steep learning curve but is very efficient once mastered.

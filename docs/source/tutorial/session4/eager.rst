@@ -10,7 +10,7 @@ Eager Compilation in Numba
     #. Learn the difference between eager and lazy compilation.
     #. Learn how to use eager compilation.
 
-Typically, Numba operates in *lazy compilation* mode. 
+Typically, Numba operates in ``lazy`` compilation mode. 
 
 ..  code-block:: python
     :linenos:
@@ -24,7 +24,7 @@ During execution, Numba infers the argument types and generates optimized code b
 information. Additionally, Numba can create separate specialized versions of the code depending 
 on the input types.
 
-In `eager compilation` mode you can also tell Numba the function signature you are expecting.
+In ``eager`` compilation mode you can also tell Numba the function signature you are expecting.
 
 ..  code-block:: python
     :emphasize-lines: 1

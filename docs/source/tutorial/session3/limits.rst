@@ -4,7 +4,7 @@ Limits of Paralellism
 .. admonition:: Overview
    :class: Overview
 
-    * **Time:** 20 min
+    * **Time:** 30 min
 
     #. Understand the limits of parallelism in High-Performance Computing (HPC).
     #. Learn about Amdahl's Law and Gustafson's Law, which describe the limits of parallel processing.

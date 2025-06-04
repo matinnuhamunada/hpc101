@@ -2,7 +2,7 @@ Session 4
 ==========
 
 .. toctree::
-    session4/intro.rst
+    session4/numba_intro.rst
     session4/llvm.rst
     session4/eager.rst
     session4/compiler_mode.rst

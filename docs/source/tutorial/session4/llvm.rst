@@ -11,10 +11,17 @@ LLVM and Numba
     #. Learn how to use LLVM IR in Numba
 
 LLVM Intermediate Representation (IR) is a low-level, typed programming language used as an 
-intermediate step in the LLVM compiler framework. It serves as a common code representation for 
-various compiler optimizations and code generation processes. Its primary purpose is to enable 
-optimizations and transformations that improve the performance and efficiency of compiled code before 
-it is translated into machine-specific instructions.
+intermediate step in the LLVM compiler framework. 
+
+.. admonition:: Explanation
+   :class: attention
+
+    `LLVM <https://llvm.org>`_ is a compiler infrastructure that helps build compilers, intermediate representations (IRs), optimizers, and code generators.
+    It is not a compiler by itself, but a framework used to build compilers.
+
+
+It serves as a common code representation for  various compiler optimizations and code generation processes. Its primary purpose is to enable 
+optimizations and transformations that improve the performance and efficiency of compiled code before  it is translated into machine-specific instructions.
 
 The code below is used to inspect and retrieve a dictionary of items related to the LLVM IR of the
 Numba-compiled function f. This can be useful for debugging or understanding how Numba has 
@@ -50,3 +57,4 @@ attribute. This attribute is a dictionary-like object that contains information 
    :class: hint
 
     #. Numba generated LLVM code can be inspected.
+    #. Numba uses LLVM IR to optimize Python code for performance.

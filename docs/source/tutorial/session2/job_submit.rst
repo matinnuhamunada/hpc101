@@ -4,7 +4,7 @@ Job Submission
 .. admonition:: Overview
    :class: Overview
 
-    * **Time:** 20 min
+    * **Time:** 30 min
 
     #. Learn how to submit jobs to the job scheduler.
     #. Understand the structure of a job script and its components.

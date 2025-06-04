@@ -5,7 +5,7 @@ What is High-Performance Computing (HPC)?
 .. admonition:: Overview
    :class: Overview
 
-    * **Time:** 20 min
+    * **Time:** 15 min
 
       #. Understand what High-Performance Computing (HPC) is.
       #. Learn when to use HPC.
@@ -55,6 +55,7 @@ laptop or desktop computer.
 
 When to Use HPC?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 HPC is used when the computational requirements of a task exceed the capabilities of standard computing systems.
 
 * When you are dealing with large datasets that does not fit into the memory of a single machine.
@@ -83,6 +84,7 @@ fires might spread.
 
 Drug Discovery
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: ./figs/covid19.png
    :width: 600px
    :align: center
@@ -94,6 +96,7 @@ contributing to this effort.
 
 Genomic Research
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: ./figs/genomic.png
    :width: 600px
    :align: center
@@ -105,6 +108,7 @@ In 2017, NCI processed 1,000 genomes overnight—a major milestone.
 
 Computational Modeling
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: ./figs/combustion.png
    :width: 600px
    :align: center
@@ -119,6 +123,7 @@ and 50+ variables, using up to 20,000 processors per simulation.
 
 Satellite Imagery Analysis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: ./figs/satellite.png
    :width: 600px
    :align: center
@@ -130,6 +135,7 @@ soil across the continent and provides a key dataset for future research.
 
 Weather Simulation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: ./figs/weather.png
    :width: 600px
    :align: center
@@ -143,6 +149,7 @@ a new scale record for the model.
 
 Airflow Simulation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: ./figs/cfd.png
    :width: 600px
    :align: center
@@ -154,6 +161,7 @@ longer lifespans.
 
 Climate Modeling
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: ./figs/climate.png
    :width: 600px
    :align: center
