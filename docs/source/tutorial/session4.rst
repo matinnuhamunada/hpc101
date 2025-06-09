@@ -11,3 +11,4 @@ Session 4
     session4/parallel.rst
     session4/ufunc.rst
     session4/vectorize.rst
+    session4/exercise.rst

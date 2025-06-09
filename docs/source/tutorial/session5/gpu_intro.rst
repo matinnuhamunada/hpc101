@@ -4,7 +4,7 @@ GPU Paralellism in HPC
 .. admonition:: Overview
    :class: Overview
 
-    * **Tutorial:** 20 min
+    * **Tutorial:** 30 min
 
     #. Learn how target GPUs using Numba.
     #. Understand the difference between kernel functions and device functions.

@@ -8,3 +8,4 @@ Session 5
     session5/gpu_vect.rst
     session5/gpu_reduction.rst
     session5/distributed_mpi.rst
+    session5/exercise.rst

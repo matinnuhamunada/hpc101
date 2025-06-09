@@ -2,6 +2,18 @@
 Distributed Parallelism
 ----------------------------------------------------
 
+
+.. admonition:: Overview
+   :class: Overview
+
+    * **Tutorial:** 30 min
+
+    #. Learn how to use MPI for distributed parallelism.
+    #. Understand the relationship between distributed parallelism and MPI.
+
+
+We will use the GPU programming in Numba to accelerate our code.
+
 Distributed parallelism is a model of parallel computing where the workload is split across multiple 
 independent computing units (often across different machines), each with its own memory and processor. 
 These units communicate and coordinate via a network.
