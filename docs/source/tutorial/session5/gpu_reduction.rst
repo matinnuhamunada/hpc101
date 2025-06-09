@@ -13,6 +13,21 @@ Reduction in GPU
 
 Numba offers a `@reduce` decorator that transforms a simple binary operation into a reduction kernel.
 
+
+.. code-block:: text
+
+    Initial Array:
+        [2]   [4]  [6]  [8] [1]  [3]  [5]   [7]
+
+          \   /     \   /     \   /     \   /
+           6         14        4         12
+
+              \       /         \       /
+                  20               16
+
+                      \       /
+                          36
+
 ..  code-block:: python
     :linenos:
 
