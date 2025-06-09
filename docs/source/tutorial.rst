@@ -72,7 +72,9 @@ of HPC, with real-world use cases and examples.
    * - Session 5
      - Use cases of HPC
    * - 
-     - Introduction to GPUs
+     - GPU parallelism
+   * - 
+     - Distributed parallelism
    * - 
      - 
    * - Final Assessment
