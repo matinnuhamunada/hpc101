@@ -11,6 +11,7 @@ If you are using a Windows machine please make sure you have a shell that suppor
 `PowerShell <https://learn.microsoft.com/en-us/powershell/scripting/windows-powershell/starting-windows-powershell>`_ or the `Windows Subsystem for Linux <https://learn.microsoft.com/en-us/windows/wsl/install>`_ 
 
 .. important::
+
  For a smooth setup on the supercomputer system, please register for an NCI account if you don't have one:
 
  #.  Go to https://my.nci.org.au/mancini
@@ -21,7 +22,8 @@ If you are using a Windows machine please make sure you have a shell that suppor
  
  or 
 
- If you already have an account
+ If you already have an account:
+ 
  #.  Login to your NCI account https://my.nci.org.au/mancini
  #.  Select Project and Groups on the left-side menu
  #.  Select Find project or group on the top tab and search vp91 to apply for membership

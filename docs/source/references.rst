@@ -12,6 +12,6 @@ Reference
 Contributers
 ==============
 
-1.  `Joseph John , Staff Scientist, NCI <https://josephjohn.org>`_
-2.  `Abdullah Shaikh , Training Manager, NCI <https://nci.org.au/about-us/nci-staff>`_
+1.  `Joseph John, Staff Scientist, NCI <https://josephjohn.org>`_
+2.  `Abdullah Shaikh, Training Manager, NCI <https://nci.org.au/about-us/nci-staff>`_
 

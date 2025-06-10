@@ -16,29 +16,29 @@ Linux File Management
 
     Difference between Unix and Linux:
 
-.. list-table:: Unix vs Linux Comparison
-   :widths: 20 30 30
-   :header-rows: 1
-
-   * - Feature
-     - Unix
-     - Linux
-   * - Proprietary or Free?
-     - Proprietary (mostly)
-     - Free and open source
-   * - Developed When?
-     - 1970s
-     - 1991
-   * - Developed By
-     - AT&T Bell Labs
-     - Linus Torvalds + community
-   * - Variants
-     - AIX, HP-UX, Solaris, etc.
-     - Ubuntu, Fedora, Debian, etc.
-   * - Certification
-     - Unix-certified by The Open Group
-     - Not Unix-certified
-
+    .. list-table:: Unix vs Linux Comparison
+       :widths: 20 30 30
+       :header-rows: 1
+    
+       * - Feature
+         - Unix
+         - Linux
+       * - Proprietary or Free?
+         - Proprietary (mostly)
+         - Free and open source
+       * - Developed When?
+         - 1970s
+         - 1991
+       * - Developed By
+         - AT&T Bell Labs
+         - Linus Torvalds + community
+       * - Variants
+         - AIX, HP-UX, Solaris, etc.
+         - Ubuntu, Fedora, Debian, etc.
+       * - Certification
+         - Unix-certified by The Open Group
+         - Not Unix-certified
+    
 
 
 Linux File System
