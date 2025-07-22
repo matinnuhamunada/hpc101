@@ -1,4 +1,4 @@
-Linux Commands
+Git Commands
 ----------------------------------
 
 .. admonition:: Overview
@@ -37,8 +37,9 @@ Here are some basic Git commands:
       - List, create, or delete branches.
     * - ``git checkout <branch>``
       - Switch to a different branch.
-      * - ``git log``
-        - Show the commit history of the repository.
+    * - ``git log``
+      - Show the commit history of the repository.
+
 
 
 .. admonition:: Key Points
