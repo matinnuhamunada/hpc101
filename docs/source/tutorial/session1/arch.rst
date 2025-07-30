@@ -51,14 +51,23 @@ cluster.
    :alt: HPC architecture
 
 The architecture of an HPC machine typically includes:
+
 * **Head Node**: The primary node that coordinates job scheduling and overall management of the HPC cluster.
+
 * **Login Node**: The node where users log in to submit and manage their jobs, typically providing an interface for interaction with the cluster.
+
 * **Data Transfer Node**: A node optimized for handling data transfers between the HPC cluster and external storage or networks, improving data throughput.
+
 * **Admin Node**: A node dedicated to system administration tasks, such as monitoring system health and managing configurations.
+
 * **File Systems**: The infrastructure that manages data storage and retrieval within the HPC cluster, crucial for efficient access to large datasets.
+
 * **Storage**: The hardware or system responsible for storing data, including high-capacity solutions like Network Attached Storage (NAS) or Storage Area Network (SAN).
+
 * **Compute Node**: The nodes where actual computational tasks are executed, performing the calculations and processing required for applications.
+
 * **Network Switches**: Devices that route data between different nodes in the HPC cluster, ensuring efficient communication and data transfer.
+
 
 
 Architecture of a Node
