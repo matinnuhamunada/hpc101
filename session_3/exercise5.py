@@ -3,11 +3,23 @@
 # - 8 cores
 # Use Amdahl’s Law to calculate the speedup.
 
-P = 0.3
-N = 4
-S = 1 / ((1-P) + (P/N))
+def amdahl(P, N):
+    """
+    Calculate Amdahl's Law
+    """
+    S = 1 / ((1-P) + (P/N))
+    return f"Sa = {S:.2f}, P = {P:.0%}, N = {N}"
 
-print(S, P, N)
+def gustafson(P, N):
+    """
+    Calculate Gustafson's Law
+    """
+    S = N - ((1-P) * (N-1))
+    return f"Sg = {S:.2f}, P = {P:.0%}, N = {N}"
 
-N = 8
-print(S, P, N)
+
+print(amdahl(0.3, 4))
+print(amdahl(0.3, 8))
+
+print(gustafson(0.3, 4))
+print(gustafson(0.3, 8))
