@@ -2,3 +2,12 @@
 # - 4 cores
 # - 8 cores
 # Use Amdahl’s Law to calculate the speedup.
+
+P = 0.3
+N = 4
+S = 1 / ((1-P) + (P/N))
+
+print(S, P, N)
+
+N = 8
+print(S, P, N)
