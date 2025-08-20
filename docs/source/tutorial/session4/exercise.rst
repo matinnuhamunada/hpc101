@@ -25,12 +25,18 @@ Launch Jupyter Notebook
 
 3. Launch the Jupyter notebook using
 
-``Walltime (hours)``: 3 hours
-``Queue`` : normal
-``Compute Size`` : xxlarge
-``Project`` : vp91
-``Storage`` : gdata/vp91+scratch/vp91
-``Modules`` : python3/3.11.0 cuda/12.8.0
-``Python or Conda virtual environment base`` : /g/data/vp91/Training-Venvs/intro-to-numba
+    1. ``Walltime (hours)``: 3 hours
+
+    #. ``Queue`` : normal
+
+    #. ``Compute Size`` : xxlarge
+
+    #. ``Project`` : vp91
+
+    #. ``Storage`` : gdata/vp91+scratch/vp91
+
+    #. ``Modules`` : python3/3.11.0 cuda/12.8.0
+
+    #. ``Python or Conda virtual environment base`` : /g/data/vp91/Training-Venvs/intro-to-numba
 
 

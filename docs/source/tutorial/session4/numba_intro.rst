@@ -17,10 +17,15 @@ Numba was developed to address the inefficiencies in NumPy use cases. NumPy uses
    :class: attention
 
     NumPy (Numerical Python) is a powerful Python library used for scientific computing. It provides:
+
     #. A high-performance multidimensional array object (ndarray).
+
     #. Tools for integrating C/C++ and Fortran code.
+
     #. Functions for linear algebra, Fourier transforms, and random number generation.
+
     #. NumPy is widely used in data science, machine learning, and numerical computing.
+    
 
     NumPy's performance is limited by the Python interpreter's overhead, which can slow down computations, especially
     for large datasets or complex numerical operations.
