@@ -19,9 +19,13 @@ performance.
    :class: attention    
 
     Python C API allows :
+
     * Interfacing with Python objects and types.
+
     * Accessing and manipulating Python objects in C.
+
     * Embedding and extending Python with C/C++ code.
+    
 
     
 * **Object Mode**: Handles values as Python objects and relies on the Python C API, often leading 
