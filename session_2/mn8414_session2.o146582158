@@ -1,0 +1,14 @@
+/apps/python3/3.11.0/bin/python3
+
+======================================================================================
+                  Resource Usage on 2025-08-07 13:55:15:
+   Job Id:             146582158.gadi-pbs
+   Project:            he61
+   Exit Status:        0
+   Service Units:      0.03
+   NCPUs Requested:    48                     NCPUs Used: 48              
+                                           CPU Time Used: 00:00:00        
+   Memory Requested:   25.0GB                Memory Used: 12.96MB         
+   Walltime requested: 00:05:00            Walltime Used: 00:00:01        
+   JobFS requested:    100.0MB                JobFS used: 0B              
+======================================================================================

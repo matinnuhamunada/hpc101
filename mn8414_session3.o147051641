@@ -1,0 +1,15 @@
+Time without parallel: 6.4906744956970215
+Time with parallel: 5.894671440124512
+
+======================================================================================
+                  Resource Usage on 2025-08-14 14:50:48:
+   Job Id:             147051641.gadi-pbs
+   Project:            he61
+   Exit Status:        0
+   Service Units:      0.61
+   NCPUs Requested:    48                     NCPUs Used: 48              
+                                           CPU Time Used: 00:00:20        
+   Memory Requested:   16.0GB                Memory Used: 343.9MB         
+   Walltime requested: 00:10:00            Walltime Used: 00:00:23        
+   JobFS requested:    100.0MB                JobFS used: 0B              
+======================================================================================

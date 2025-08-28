@@ -28,12 +28,13 @@ def reduction_with_parallel(n):
 
     return result1
 
-
+reduction_without_parallel(10000000)
 start = time.time()
 reduction_without_parallel(10000000)
 end = time.time()
 print("Time without parallel:", end - start)
 
+reduction_with_parallel(10000000)
 start = time.time()
 reduction_with_parallel(10000000)
 end = time.time()
